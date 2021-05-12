@@ -1,4 +1,4 @@
-module github.com/cloudfoundry/bosh-cli
+module github.com/cloudfoundry/bosh-cli/v1.6.4.3
 
 go 1.15
 
